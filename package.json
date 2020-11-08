@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-firebase-social-auth-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/firebase": "^7.1.0",
+    "core-js": "^3.6.5",
+    "firebase": "^8.0.1",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/pwa": "^3.2.2",
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
